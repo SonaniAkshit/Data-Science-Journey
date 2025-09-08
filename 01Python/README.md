@@ -13,7 +13,7 @@
 
 ### **Practice Questions**
 
-#### [Basics](https://github.com/SonaniAkshit/Data-Science-Journey/blob/main/01Python/01Python_Basics_Practice.ipynb)
+#### [Basics](https://github.com/SonaniAkshit/Data-Science-Journey/blob/main/01Python/01Basics%20Problems%20with%20Solutions.ipynb)
 
 
 1. Write a Python program to swap two variables.
@@ -49,7 +49,7 @@
 
 ---
 
-#### Functions, Lists, Tuples, Dictionaries, Sets
+#### [Functions, Lists, Tuples, Dictionaries, Sets](https://github.com/SonaniAkshit/Data-Science-Journey/blob/main/01Python/02Functions%2C%20Lists%2C%20Tuples%2C%20Dictionaries%2C%20Sets%20Problems%20%26%20Solutions.ipynb)
 
 1. Write a function to check if a number is even.
 2. Create a list and find the sum of all its elements.
@@ -84,7 +84,7 @@
 
 ---
 
-#### File Handling, Error Handling, Modules, Comprehensions
+####[File Handling, Error Handling, Modules, Comprehensions](https://github.com/SonaniAkshit/Data-Science-Journey/blob/main/01Python/03File%20Handling%2C%20Error%20Handling%2C%20Modules%2C%20Comprehensions.ipynb) 
 
 1. Write a Python script to read a file and print its contents.
 2. Create a file and write your name into it.
@@ -99,7 +99,7 @@
 
 ---
 
-#### OOPs + Logic Building
+#### [OOPs + Logic Building](https://github.com/SonaniAkshit/Data-Science-Journey/blob/main/01Python/04OOPs%20%2B%20Logic%20Building%20Problems%20%26%20Solutions.ipynb)
 
 1. Write a Python program to check if a string has all unique characters.
 2. Create a program that removes all duplicate characters from a string.

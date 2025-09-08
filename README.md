@@ -78,7 +78,8 @@ Welcome to the **Data Science Journey**. This roadmap takes you from beginner to
 
 ### **Step 7: Specialization**
 
-🧠 [Specialization (NLP, CV, BI Tools, Data Engineering)](Specialization (NLP, CV, BI Tools, Data Engineering))
+🧩 [Specialization (NLP, CV, BI Tools, Data Engineering)](https://github.com/SonaniAkshit/Data-Science-Journey/tree/main/07Specialization%20(NLP%2C%20CV%2C%20BI%20Tools%2C%20Data%20Engineering))
+
 
 
 * NLP
@@ -87,6 +88,19 @@ Welcome to the **Data Science Journey**. This roadmap takes you from beginner to
 * Data Engineering
 ---
 
+### ©️ Clone the Repository
+
+```bash
+git clone https://github.com/SonaniAkshit/Data-Science-Journey.git
+```
+
+## 📧 Contact
+- **Developer:** Akshit Sonani
+- **Email:** sonaniakshit684@gmail.com
+- **GitHub:** [SonaniAkshit](https://github.com/SonaniAkshit)
+
+# 🔥 Happy Coding! 🚀
+### ⭐ Star this repository if you find it helpful!
 
 <!-- # Data Science Journey  
 **Beginner to Expert Roadmap**  

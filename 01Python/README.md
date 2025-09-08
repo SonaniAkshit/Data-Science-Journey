@@ -13,7 +13,8 @@
 
 ### **Practice Questions**
 
-#### Basics
+#### [Basics](https://github.com/SonaniAkshit/Data-Science-Journey/blob/main/01Python/01Python_Basics_Practice.ipynb)
+
 
 1. Write a Python program to swap two variables.
 2. Take user input and display it back to the user.

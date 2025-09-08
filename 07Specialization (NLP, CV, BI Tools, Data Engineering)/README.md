@@ -1,9 +1,4 @@
-Perfect 👍 Let’s wrap the roadmap with the final stage: **Step 7: Specialization & Capstone**.
-This is where you pick a focus area, build a portfolio project, and prepare for interviews.
-
----
-
-# **Step 7: Specialization & Capstone**
+# **Step 7: Specialization**
 
 📺 **Resources (choose based on your path):**
 

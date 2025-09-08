@@ -6,7 +6,7 @@ Welcome to the **Data Science Journey**. This roadmap takes you from beginner to
 
 ### **Step 1: Python**
 
-📺 [Python Full Course](https://www.youtube.com/watch?v=_aWbUudZ5Yo)
+🐍 [Python](https://github.com/SonaniAkshit/Data-Science-Journey/tree/main/01Python)
 
 * Basics: variables, loops, conditionals, I/O
 * Functions, Lists, Tuples, Dicts, Sets
@@ -17,8 +17,7 @@ Welcome to the **Data Science Journey**. This roadmap takes you from beginner to
 
 ### **Step 2: Mathematics, Statistics, NumPy & Pandas**
 
-📺 [Statistics](https://www.youtube.com/watch?v=eF7HoC-cLRM&t=17267s) | [NumPy](https://www.youtube.com/watch?v=Utgwk0r9Zq4&t=365s) | [Pandas](https://www.youtube.com/watch?v=QUaSmqBeR9w)
-
+📐 [Mathematics, Statistics, NumPy & Pandas](https://github.com/SonaniAkshit/Data-Science-Journey/tree/main/02Mathematics%20%26%20Statistics)
 * Descriptive stats: mean, median, mode, std, IQR
 * Probability, Bayes theorem, combinatorics
 * Hypothesis testing: T-tests, Chi-square, p-values
@@ -29,7 +28,7 @@ Welcome to the **Data Science Journey**. This roadmap takes you from beginner to
 
 ### **Step 3: Data Preprocessing & Visualization**
 
-📺 [Visualization Full Course](https://www.youtube.com/watch?v=-jTD74eEy2I&t=5057s)
+📊 [Data Preprocessing & Visualization](https://github.com/SonaniAkshit/Data-Science-Journey/tree/main/03Data%20Preprocessing%20%26%20Visualization)
 
 * Data cleaning: missing values, outliers, encoding, scaling
 * Pandas deep dive: joins, aggregations, merging
@@ -41,7 +40,7 @@ Welcome to the **Data Science Journey**. This roadmap takes you from beginner to
 
 ### **Step 4: SQL**
 
-📺 [SQL Full Course](https://www.youtube.com/watch?v=9Pzj7Aj25lw)
+💡 [SQL (Databases & Queries)](https://github.com/SonaniAkshit/Data-Science-Journey/tree/main/04SQL%20(Databases%20%26%20Queries))
 
 * SELECT, WHERE, ORDER BY, LIMIT
 * GROUP BY, HAVING, Aggregations
@@ -53,7 +52,7 @@ Welcome to the **Data Science Journey**. This roadmap takes you from beginner to
 
 ### **Step 5: Machine Learning**
 
-📺 [ML Playlist](https://youtube.com/playlist?list=PLaldQ9PzZd9qT0KsKJ7yCq70iFFP3MFJ5)
+🤖 [Machine Learning](https://github.com/SonaniAkshit/Data-Science-Journey/tree/main/05Machine%20Learning)
 
 * Supervised vs Unsupervised
 * Regression: Linear, Multiple
@@ -67,7 +66,7 @@ Welcome to the **Data Science Journey**. This roadmap takes you from beginner to
 
 ### **Step 6: Deep Learning**
 
-📺 [Neural Networks FreeCodeCamp](https://www.youtube.com/watch?v=aircAruvnKk) | [TensorFlow](https://www.tensorflow.org/guide)
+🧠 [Deep Learning](https://github.com/SonaniAkshit/Data-Science-Journey/tree/main/06Deep%20Learning)
 
 * Neural networks: perceptron, activation, backprop
 * ANN with Keras/TensorFlow
@@ -77,32 +76,16 @@ Welcome to the **Data Science Journey**. This roadmap takes you from beginner to
 
 ---
 
-### **Step 7: Specialization & Capstone**
+### **Step 7: Specialization**
 
-📺 Choose Track:
+🧠 [Specialization (NLP, CV, BI Tools, Data Engineering)](Specialization (NLP, CV, BI Tools, Data Engineering))
 
-* NLP → [NLP Tutorial](https://www.youtube.com/watch?v=8dLF3WEMKZo)
 
-* Computer Vision → [CV FreeCodeCamp](https://www.youtube.com/watch?v=oXlwWbU8l2o)
-
-* Power BI → [Power BI Tutorial](https://www.youtube.com/watch?v=AGrl-H87pRU)
-
-* Data Engineering → [Airflow Tutorial](https://www.youtube.com/watch?v=cHATHSB_450)
-
-* Capstone Project: End-to-end solution (data preprocessing → model/dashboard → deployment)
-
-* Build GitHub portfolio + Resume + Mock interviews
-
+* NLP
+* Computer Vision
+* Power BI
+* Data Engineering
 ---
-
-✅ This is the **quick roadmap summary**.
-You now have both:
-
-* The **detailed roadmap with all questions**
-* The **condensed checklist** for revision.
-
-Do you want me to also design a **visual roadmap chart/infographic** (like a flow diagram) that you can keep as a learning poster?
-
 
 
 <!-- # Data Science Journey  

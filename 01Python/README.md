@@ -1,6 +1,6 @@
 # **Step 1: Python**
 
-📺 **Resource:** [Python Full Course (YouTube)](https://www.youtube.com/watch?v=_aWbUudZ5Yo)
+<!-- 📺 **Resource:** [Python Full Course (YouTube)](https://www.youtube.com/watch?v=_aWbUudZ5Yo) -->
 
 ### Topics to Cover
 
@@ -84,7 +84,7 @@
 
 ---
 
-####[File Handling, Error Handling, Modules, Comprehensions](https://github.com/SonaniAkshit/Data-Science-Journey/blob/main/01Python/03File%20Handling%2C%20Error%20Handling%2C%20Modules%2C%20Comprehensions.ipynb) 
+#### [File Handling, Error Handling, Modules, Comprehensions](https://github.com/SonaniAkshit/Data-Science-Journey/blob/main/01Python/03File%20Handling%2C%20Error%20Handling%2C%20Modules%2C%20Comprehensions.ipynb) 
 
 1. Write a Python script to read a file and print its contents.
 2. Create a file and write your name into it.

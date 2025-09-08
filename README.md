@@ -1,4 +1,111 @@
-# Data Science Journey  
+# **Data Science Journey**
+
+Welcome to the **Data Science Journey**. This roadmap takes you from beginner to expert step by step. Each phase builds on the previous one, combining theory, coding practice, and projects to help you become a confident Data Scientist. 
+
+---
+
+### **Step 1: Python**
+
+📺 [Python Full Course](https://www.youtube.com/watch?v=_aWbUudZ5Yo)
+
+* Basics: variables, loops, conditionals, I/O
+* Functions, Lists, Tuples, Dicts, Sets
+* File & Error handling, Modules, Comprehensions
+* Object-Oriented Programming (OOP)
+
+---
+
+### **Step 2: Mathematics, Statistics, NumPy & Pandas**
+
+📺 [Statistics](https://www.youtube.com/watch?v=eF7HoC-cLRM&t=17267s) | [NumPy](https://www.youtube.com/watch?v=Utgwk0r9Zq4&t=365s) | [Pandas](https://www.youtube.com/watch?v=QUaSmqBeR9w)
+
+* Descriptive stats: mean, median, mode, std, IQR
+* Probability, Bayes theorem, combinatorics
+* Hypothesis testing: T-tests, Chi-square, p-values
+* NumPy: arrays, slicing, reshaping, matrix ops
+* Pandas: DataFrames, filtering, groupby, joins, pivot tables
+
+---
+
+### **Step 3: Data Preprocessing & Visualization**
+
+📺 [Visualization Full Course](https://www.youtube.com/watch?v=-jTD74eEy2I&t=5057s)
+
+* Data cleaning: missing values, outliers, encoding, scaling
+* Pandas deep dive: joins, aggregations, merging
+* Matplotlib: line, bar, scatter, pie
+* Seaborn: heatmaps, boxplots, pairplots
+* Exploratory Data Analysis (EDA)
+
+---
+
+### **Step 4: SQL**
+
+📺 [SQL Full Course](https://www.youtube.com/watch?v=9Pzj7Aj25lw)
+
+* SELECT, WHERE, ORDER BY, LIMIT
+* GROUP BY, HAVING, Aggregations
+* Joins: INNER, LEFT, RIGHT, FULL
+* Subqueries, Window functions, CTEs
+* Mini projects: e-commerce analytics, student management
+
+---
+
+### **Step 5: Machine Learning**
+
+📺 [ML Playlist](https://youtube.com/playlist?list=PLaldQ9PzZd9qT0KsKJ7yCq70iFFP3MFJ5)
+
+* Supervised vs Unsupervised
+* Regression: Linear, Multiple
+* Classification: Logistic, KNN, Decision Tree, Random Forest
+* SVM, Naive Bayes
+* Clustering: K-Means, DBSCAN
+* Model evaluation: Confusion Matrix, Precision, Recall, ROC
+* Cross-validation, Hyperparameter tuning
+
+---
+
+### **Step 6: Deep Learning**
+
+📺 [Neural Networks FreeCodeCamp](https://www.youtube.com/watch?v=aircAruvnKk) | [TensorFlow](https://www.tensorflow.org/guide)
+
+* Neural networks: perceptron, activation, backprop
+* ANN with Keras/TensorFlow
+* CNN: filters, pooling, transfer learning
+* RNN, LSTM, GRU for text & time series
+* Projects: image classification, sentiment analysis, stock forecasting
+
+---
+
+### **Step 7: Specialization & Capstone**
+
+📺 Choose Track:
+
+* NLP → [NLP Tutorial](https://www.youtube.com/watch?v=8dLF3WEMKZo)
+
+* Computer Vision → [CV FreeCodeCamp](https://www.youtube.com/watch?v=oXlwWbU8l2o)
+
+* Power BI → [Power BI Tutorial](https://www.youtube.com/watch?v=AGrl-H87pRU)
+
+* Data Engineering → [Airflow Tutorial](https://www.youtube.com/watch?v=cHATHSB_450)
+
+* Capstone Project: End-to-end solution (data preprocessing → model/dashboard → deployment)
+
+* Build GitHub portfolio + Resume + Mock interviews
+
+---
+
+✅ This is the **quick roadmap summary**.
+You now have both:
+
+* The **detailed roadmap with all questions**
+* The **condensed checklist** for revision.
+
+Do you want me to also design a **visual roadmap chart/infographic** (like a flow diagram) that you can keep as a learning poster?
+
+
+
+<!-- # Data Science Journey  
 **Beginner to Expert Roadmap**  
 
 Welcome to the **Data Science Journey**. This roadmap takes you from beginner to expert step by step. Each phase builds on the previous one, combining theory, coding practice, and projects to help you become a confident Data Scientist.  
@@ -166,8 +273,8 @@ Welcome to the **Data Science Journey**. This roadmap takes you from beginner to
 
 - **Project:**  
   - Build and deploy a capstone project.  
-  <!-- - Create a GitHub portfolio.  
-  - Resume preparation.   -->
+  - Create a GitHub portfolio.  
+  - Resume preparation.
 
 ---
 
@@ -175,4 +282,4 @@ Welcome to the **Data Science Journey**. This roadmap takes you from beginner to
 By the end of this roadmap, you’ll have:  
 - Strong foundations in Python, Statistics, SQL, ML, and DL.  
 - Completed multiple projects across different domains.  
-- A specialization project and portfolio ready for job applications.  
+- A specialization project and portfolio ready for job applications.   -->
